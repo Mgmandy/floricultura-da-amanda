@@ -1,25 +1,24 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <recompensas>
-    <pirata>
+  <pirata>
         <id>1</id>
         <nome>Buquê de 12 Rosas Vermelhas</nome>
        <recompensa>139,00</recompensa>
         <status>Dísponivel</status>
  </pirata>
-    <pirata>
+  <pirata>
         <id>2</id>
         <nome>Buquê de Girassóis</nome>
       <recompensa>155,70</recompensa>
         <status>Disponivel</status>
    </pirata>
-    <pirata>
+   <pirata>
         <id>3</id>
         <nome>Buquê Mediano de Flores do Campo Coloridas</nome>
       <recompensa>155,00</recompensa>
         <status>Dísponivel</status>
   </pirata>
-    <pirata>
+  <pirata>
         <id>4</id>
         <nome>Orquídea Phalaenopsis Rosa</nome>
         <recompensa>166,70</recompensa>
@@ -31,31 +30,30 @@
         <recompensa>140,70</recompensa>
         <status>Dísponivel</status>
     </pirata>
-    <pirata>
+     <pirata>
         <id>6</id>
         <nome>Tulipa</nome>
        <recompensa>140,70</recompensa>
         <status>Dísponivel</status>
-  </pirata>
-    <pirata>
+  </pirata><pirata>
         <id>7</id>
         <nome>Margarida</nome>
       <recompensa>90,00</recompensa>
         <status>Dísponivel</status>
   </pirata>
-    <pirata>
+  <pirata>
         <id>8</id>
         <nome>Bromélia</nome>
         <recompensa>155,70</recompensa>
         <status>Dísponivel</status>
     </pirata>
-    <pirata>
+     <pirata>
         <id>9</id>
         <nome>Crisântemo</nome>
         <recompensa>255,70</recompensa>
         <status>Dísponivel</status>
   </pirata>
-    <pirata>
+   <pirata>
         <id>10</id>
         <nome>Dália</nome>
         <recompensa>355,70</recompensa>
